@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 
-- 👨‍💻 More about me in a nutshell [Personal Portfolio](target=_blank https://personal-portfolio-duke0607.vercel.app/)
+- 👨‍💻 More about me in a nutshell [Personal Portfolio](https://personal-portfolio-duke0607.vercel.app/target=_blank)
 
 - 💬 Ask me about **Geopolitics,Armed forces and Programming.**
 
