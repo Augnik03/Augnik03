@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=augnik03&label=Profile%20Views&color=1a1b27&style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://profile-counter.glitch.me/Augnik03/count.svg?"  />
 </div>
 
 ###
