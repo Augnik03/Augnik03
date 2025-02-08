@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Augnik03/count.svg?"  />
+  <img src="https://img.shields.io/badge/Profile%20Views-YOUR_OLD_COUNT_HERE-1a1b27?style=for-the-badge" alt="Profile Views Counter" />
 </div>
 
 ###
